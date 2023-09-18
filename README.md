@@ -148,3 +148,13 @@ Supports JSON and XML.
 Provides test data for different versions of the AAS meta-model:
 * v3.0: https://github.com/aas-core-works/aas-core3.0-testgen
 * v3.0RC02: https://github.com/aas-core-works/aas-core3.0rc02-testgen
+
+### Test Engines
+
+Official test engines for the AAS. Provides functions to
+* Check that your JSON, XML or AASX file is compliant to the standard
+* Check that your REST API implementation is compliant to the standard
+
+Implements v3.0.
+
+* https://github.com/admin-shell-io/aas-test-engines
