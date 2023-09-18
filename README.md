@@ -134,3 +134,17 @@ https://industrialdigitaltwin.org/content-hub/downloads
 ### Tutorials
 
 tbd.
+
+## Testing
+
+We list here data sets and testing tools which you can use for testing & development.
+
+### AAS Core Testgen
+
+Generates test data procedurally by property-based and combinatorial data generation.
+
+Supports JSON and XML.
+
+Provides test data for different versions of the AAS meta-model:
+* v3.0: https://github.com/aas-core-works/aas-core3.0-testgen
+* v3.0RC02: https://github.com/aas-core-works/aas-core3.0rc02-testgen
