@@ -7,47 +7,45 @@ Items are listed alphabetically and do not follow a certain prioritization.
 
 ## Software Development Kits (SDKs) 🔨
 
-SDKs provide the AAS meta-model for a certain programming language, e.g. as a class hierarchy.
-On-top of this, SDKs provide functionality to validate instances of the AAS and for serialization / de-serialization.
+SDKs provide the AAS meta-model for a certain programming language, *e.g.* as a class hierarchy.
+On top of this, SDKs validate and de/serialize instances of the AAS.
 
 ### AAS4J
 Java SDK, implements v3.0 of the spec.
 Supports XML, JSON and AASX.
-Available at Maven.
 
 https://github.com/eclipse-aas4j/aas4j
 
 ### AAS Core C#
 C# SDK.
-Supports XML and JSON
+Supports XML and JSON. Implements the following versions of the AAS meta-model:
 
-v3.0: https://github.com/aas-core-works/aas-core3.0-csharp
-
-v3.0RC02: https://github.com/aas-core-works/aas-core3.0rc02-csharp
+* v3.0: https://github.com/aas-core-works/aas-core3.0-csharp
+* v3.0RC02: https://github.com/aas-core-works/aas-core3.0rc02-csharp
 
 ### AAS Core Golang
 Go SDK.
 Supports XML and JSON.
+Implements the following versions of the AAS meta-model:
 
-v3.0: https://github.com/aas-core-works/aas-core3.0-golang
-
-v3.0RC02: https://github.com/aas-core-works/aas-core3.0rc02-golang
+* v3.0: https://github.com/aas-core-works/aas-core3.0-golang
+* v3.0RC02: https://github.com/aas-core-works/aas-core3.0rc02-golang
 
 ### AAS Core Typescript
 Typescript SDK.
 Supports JSON.
+Implements the following versions of the AAS meta-model:
 
-v3.0: https://github.com/aas-core-works/aas-core3.0-typescript
-
-v3.0RC02: https://github.com/aas-core-works/aas-core3.0rc02-typescript
+* v3.0: https://github.com/aas-core-works/aas-core3.0-typescript
+* v3.0RC02: https://github.com/aas-core-works/aas-core3.0rc02-typescript
 
 ### AAS Core Python
 Python SDK.
 Supports XML and JSON.
+Implements the following versions of the AAS meta-model:
 
-v3.0: https://github.com/aas-core-works/aas-core3.0-python
-
-v3.0RC02 https://github.com/aas-core-works/aas-core3.0rc02-python
+* v3.0: https://github.com/aas-core-works/aas-core3.0-python
+* v3.0RC02 https://github.com/aas-core-works/aas-core3.0rc02-python
 
 ### BaSyx Python SDK
 Python SDK, implements v2.0.1 of the spec.
@@ -66,7 +64,7 @@ Server Frameworks enable the development of HTTP/REST interfaces to access an AA
 
 ### BaSyx Java V2 Server SDK
 
-For Java, v3.0
+For Java, supports v3.0 of the AAS meta-model.
 
 https://github.com/eclipse-basyx/basyx-java-server-sdk
 
@@ -88,13 +86,13 @@ https://github.com/admin-shell-io/aasx-server
 
 ### BaSyx Java V2 Server
 Offers off-the-shelf components to directly deploy:
-* Repository
-* Submodel Repository
-* ConceptDescription Repository
-* Environment
-* Registry
+* Repository,
+* Submodel Repository,
+* ConceptDescription Repository,
+* Environment, and
+* Registry.
 
-Images available at Dockerhub
+Images available at Dockerhub.
 
 https://github.com/eclipse-basyx/basyx-java-server-sdk
 
@@ -104,7 +102,6 @@ Web-based GUI to inspect an AAS.
 Image available at Dockerhub.
 
 https://gitlab.com/novaas/catalog/nova-school-of-science-and-technology/novaas
-
 
 ## Documentation 📝
 
