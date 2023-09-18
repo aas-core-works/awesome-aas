@@ -84,6 +84,19 @@ Pre-build binaries available.
 
 https://github.com/admin-shell-io/aasx-server
 
+### AAS Core CLI Swiss Knife
+
+Provide a set of command-line tools to:
+* Convert CSV tables to AAS,
+* Validate instances of AAS,
+* Tree-shake concept descriptions,
+* Check for dangling references, and
+* Convert AAS to static file structures (in form of directories and JSON files) such that they can be statically served by a HTTP server (*e.g.* nginx) as a read-only AAS server.
+
+Supports v3.0 of the AAS meta-model.
+
+https://github.com/aas-core-works/aas-core3.0-cli-swiss-knife
+
 ### BaSyx Java V2 Server
 Offers off-the-shelf components to directly deploy:
 * Repository,
