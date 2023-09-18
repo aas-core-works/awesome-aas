@@ -97,6 +97,15 @@ Supports v3.0 of the AAS meta-model.
 
 https://github.com/aas-core-works/aas-core3.0-cli-swiss-knife
 
+### AAS Core React Editor
+An editor of an AAS, implemented in React and TypeScript, which runs directly in the browser.
+
+Contained as a single HTML file and needs no server or backend.
+
+Supports v3.0RC02 of the meta-model.
+
+https://github.com/aas-core-works/aas-core3.0rc02-react-editor
+
 ### BaSyx Java V2 Server
 Offers off-the-shelf components to directly deploy:
 * Repository,
