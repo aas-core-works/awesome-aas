@@ -72,18 +72,6 @@ https://github.com/eclipse-basyx/basyx-java-server-sdk
 
 This sections lists end-user tools.
 
-### AASX Package Explorer
-Official tool for opening / editing AASX files.
-Pre-build binaries available for Windows 10.
-
-https://github.com/admin-shell-io/aasx-package-explorer
-
-### AASX Server
-Official AAS server which offers some proprietary endpoints.
-Pre-build binaries available.
-
-https://github.com/admin-shell-io/aasx-server
-
 ### AAS Core CLI Swiss Knife
 
 Provide a set of command-line tools to:
@@ -105,6 +93,18 @@ Contained as a single HTML file and needs no server or backend.
 Supports v3.0RC02 of the meta-model.
 
 https://github.com/aas-core-works/aas-core3.0rc02-react-editor
+
+### AASX Package Explorer
+Official tool for opening / editing AASX files.
+Pre-build binaries available for Windows 10.
+
+https://github.com/admin-shell-io/aasx-package-explorer
+
+### AASX Server
+Official AAS server which offers some proprietary endpoints.
+Pre-build binaries available.
+
+https://github.com/admin-shell-io/aasx-server
 
 ### BaSyx Java V2 Server
 Offers off-the-shelf components to directly deploy:
