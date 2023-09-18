@@ -135,7 +135,7 @@ https://industrialdigitaltwin.org/content-hub/downloads
 
 tbd.
 
-## Testing
+## Testing 🧪
 
 We list here data sets and testing tools which you can use for testing & development.
 
