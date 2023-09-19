@@ -162,10 +162,6 @@ https://gitlab.com/novaas/catalog/nova-school-of-science-and-technology/novaas
 
 https://industrialdigitaltwin.org/content-hub/downloads
 
-### Tutorials
-
-tbd.
-
 ## Testing 🧪
 
 We list here data sets and testing tools which you can use for testing & development.
