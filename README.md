@@ -102,6 +102,22 @@ Supports v3.0RC02 of the meta-model.
 
 https://github.com/aas-core-works/aas-core3.0rc02-react-editor
 
+### AAS Manager
+Cross-platform visual viewer/editor implemented in Python and based on PyQt Framework and BaSyx-Python-SDK.
+
+Pre-build binaries available for Windows 10, Linux and MacOS.
+
+https://github.com/rwth-iat/aas_manager
+
+### AAS Submodel Python Code Generator
+Code generator tool built on top of the BaSyx-Python-SDK. 
+
+It generates Submodel-specific classes and classes for its submodel elements with filled meta-information derived from AASX submodel templates. The generated classes can then be used for submodel instantiation. 
+
+Also contains generated classes for some of IDTA Submodels.
+
+https://github.com/rwth-iat/aas-submodel-template-to-py
+
 ### AASX Package Explorer
 Official tool for opening / editing AASX files.
 Pre-build binaries available for Windows 10.
