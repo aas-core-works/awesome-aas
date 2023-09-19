@@ -126,6 +126,13 @@ Images available at Dockerhub.
 
 https://github.com/eclipse-basyx/basyx-java-server-sdk
 
+### Fraunhofer AAS GUI
+
+Web-based GUI to connect to an AAS server or registry.
+Docker images available.
+
+https://github.com/eclipse-basyx/basyx-applications/tree/main/aas-gui
+
 ### NOVAAS
 
 Web-based GUI to inspect an AAS.
@@ -165,4 +172,10 @@ Official test engines for the AAS. Provides functions to
 
 Implements v3.0.
 
-* https://github.com/admin-shell-io/aas-test-engines
+https://github.com/admin-shell-io/aas-test-engines
+
+### Test Orchestrator
+
+An AAS which orchestrates tests.
+
+https://github.com/eclipse-basyx/basyx-applications/tree/main/test-orchestrator
