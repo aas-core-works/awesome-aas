@@ -72,6 +72,14 @@ https://github.com/eclipse-basyx/basyx-java-server-sdk
 
 This sections lists end-user tools.
 
+### AASPortal
+
+AASPortal is a Node.js based web portal for the visualization and management of Asset Administration Shells (AAS).
+
+Images available at Dockerhub.
+
+https://github.com/FraunhoferIOSB/AASPortal
+
 ### AAS Core CLI Swiss Knife
 
 Provide a set of command-line tools to:
@@ -124,14 +132,6 @@ Web-based GUI to inspect an AAS.
 Image available at Dockerhub.
 
 https://gitlab.com/novaas/catalog/nova-school-of-science-and-technology/novaas
-
-### AASPortal
-
-AASPortal is a Node.js based web portal for the visualization and management of Asset Administration Shells (AAS).
-
-Images available at Dockerhub.
-
-https://github.com/FraunhoferIOSB/AASPortal
 
 ## Documentation 📝
 
