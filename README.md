@@ -145,6 +145,13 @@ Images available at Dockerhub.
 
 https://github.com/eclipse-basyx/basyx-java-server-sdk
 
+
+### FAAAST Service
+Images available at Dockerhub
+
+https://github.com/FraunhoferIOSB/FAAAST-Service
+
+
 ### Fraunhofer AAS GUI
 
 Web-based GUI to connect to an AAS server or registry.
