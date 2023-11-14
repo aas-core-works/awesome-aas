@@ -68,6 +68,30 @@ For Java, supports v3.0 of the AAS meta-model.
 
 https://github.com/eclipse-basyx/basyx-java-server-sdk
 
+## Editors ✎
+
+### AAS Core React Editor
+An editor of an AAS, implemented in React and TypeScript, which runs directly in the browser.
+
+Contained as a single HTML file and needs no server or backend.
+
+Supports v3.0RC02 of the meta-model.
+
+https://github.com/aas-core-works/aas-core3.0rc02-react-editor
+
+### AAS Manager
+Cross-platform visual viewer/editor implemented in Python and based on PyQt Framework and BaSyx-Python-SDK.
+
+Pre-build binaries available for Windows 10, Linux and MacOS.
+
+https://github.com/rwth-iat/aas_manager
+
+### AASX Package Explorer
+Official tool for opening / editing AASX files.
+Pre-build binaries available for Windows 10.
+
+https://github.com/admin-shell-io/aasx-package-explorer
+
 ## Tools 🔧
 
 This sections lists end-user tools.
@@ -93,21 +117,6 @@ Supports v3.0 of the AAS meta-model.
 
 https://github.com/aas-core-works/aas-core3.0-cli-swiss-knife
 
-### AAS Core React Editor
-An editor of an AAS, implemented in React and TypeScript, which runs directly in the browser.
-
-Contained as a single HTML file and needs no server or backend.
-
-Supports v3.0RC02 of the meta-model.
-
-https://github.com/aas-core-works/aas-core3.0rc02-react-editor
-
-### AAS Manager
-Cross-platform visual viewer/editor implemented in Python and based on PyQt Framework and BaSyx-Python-SDK.
-
-Pre-build binaries available for Windows 10, Linux and MacOS.
-
-https://github.com/rwth-iat/aas_manager
 
 ### AAS Submodel Python Code Generator
 Code generator tool built on top of the BaSyx-Python-SDK. 
@@ -117,12 +126,6 @@ It generates Submodel-specific classes and classes for its submodel elements wit
 Also contains generated classes for some of IDTA Submodels.
 
 https://github.com/rwth-iat/aas-submodel-template-to-py
-
-### AASX Package Explorer
-Official tool for opening / editing AASX files.
-Pre-build binaries available for Windows 10.
-
-https://github.com/admin-shell-io/aasx-package-explorer
 
 ### AASX Server
 Official AAS server which offers some proprietary endpoints.
