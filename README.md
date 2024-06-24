@@ -78,12 +78,37 @@ For Java, supports v3.0 of the AAS meta-model.
 https://github.com/eclipse-basyx/basyx-java-server-sdk
 
 ## Servers
+Ready to use server implementations.
 
 ### Eclipse BaSyx Python SDK - HTTP Server
 
 Using Python, implements:
 * Asset Administration Shell Repository Service
 * Submodel Repository Service
+
+### AASX Server
+Official AAS server which offers some proprietary endpoints.
+Pre-build binaries available.
+
+https://github.com/admin-shell-io/aasx-server
+
+### BaSyx Java V2 Server
+Offers off-the-shelf components to directly deploy:
+* Repository,
+* Submodel Repository,
+* ConceptDescription Repository,
+* Environment, and
+* Registry.
+
+Images available at Dockerhub.
+
+https://github.com/eclipse-basyx/basyx-java-server-sdk
+
+
+### FAAAST Service
+Images available at Dockerhub
+
+https://github.com/FraunhoferIOSB/FAAAST-Service
 
 ## Editors ✎
 
@@ -143,31 +168,6 @@ It generates Submodel-specific classes and classes for its submodel elements wit
 Also contains generated classes for some of IDTA Submodels.
 
 https://github.com/rwth-iat/aas-submodel-template-to-py
-
-### AASX Server
-Official AAS server which offers some proprietary endpoints.
-Pre-build binaries available.
-
-https://github.com/admin-shell-io/aasx-server
-
-### BaSyx Java V2 Server
-Offers off-the-shelf components to directly deploy:
-* Repository,
-* Submodel Repository,
-* ConceptDescription Repository,
-* Environment, and
-* Registry.
-
-Images available at Dockerhub.
-
-https://github.com/eclipse-basyx/basyx-java-server-sdk
-
-
-### FAAAST Service
-Images available at Dockerhub
-
-https://github.com/FraunhoferIOSB/FAAAST-Service
-
 
 ### Fraunhofer AAS GUI
 
