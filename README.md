@@ -69,13 +69,21 @@ For Python, mostly generated from the OpenAPI specification
 https://github.com/rwth-iat/aas-api-python-client
 
 ## Server Frameworks 🖥
-Server Frameworks enable the development of HTTP/REST interfaces to access an AAS.
+Server Frameworks enable the development of HTTP/REST interfaces to provide an AAS.
 
 ### BaSyx Java V2 Server SDK
 
 For Java, supports v3.0 of the AAS meta-model.
 
 https://github.com/eclipse-basyx/basyx-java-server-sdk
+
+## Servers
+
+### Eclipse BaSyx Python SDK - HTTP Server
+
+Using Python, implements:
+* Asset Administration Shell Repository Service
+* Submodel Repository Service
 
 ## Editors ✎
 
