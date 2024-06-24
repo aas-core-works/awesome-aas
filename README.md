@@ -59,6 +59,15 @@ Supports JSON.
 
 https://github.com/eclipse-basyx/basyx-rust-sdk
 
+## Client Libraries
+Client libraries which allow interaction with an AAS HTTP/REST server
+
+### AAS API Python Client
+
+For Python, mostly generated from the OpenAPI specification
+
+https://github.com/rwth-iat/aas-api-python-client
+
 ## Server Frameworks 🖥
 Server Frameworks enable the development of HTTP/REST interfaces to access an AAS.
 
