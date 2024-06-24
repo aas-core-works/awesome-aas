@@ -86,6 +86,8 @@ Using Python, implements:
 * Asset Administration Shell Repository Service
 * Submodel Repository Service
 
+https://github.com/rwth-iat/basyx-python-sdk-http-server-docker
+
 ### AASX Server
 Official AAS server which offers some proprietary endpoints.
 Pre-build binaries available.
