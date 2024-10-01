@@ -48,7 +48,7 @@ Implements the following versions of the AAS meta-model:
 * v3.0RC02 https://github.com/aas-core-works/aas-core3.0rc02-python
 
 ### BaSyx Python SDK
-Python SDK, implements v2.0.1 of the spec.
+Python SDK, implements v3.0 of the spec.
 Supports JSON, XML and AASX
 
 https://github.com/eclipse-basyx/basyx-python-sdk
