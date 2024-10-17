@@ -185,6 +185,10 @@ Image available at Dockerhub.
 
 https://gitlab.com/novaas/catalog/nova-school-of-science-and-technology/novaas
 
+### Commercial Tools
+
+A list of commercial tools can be found at https://industrialdigitaltwin.org/solutions-hub
+
 ## Documentation 📝
 
 ### Specifications
