@@ -185,6 +185,12 @@ Image available at Dockerhub.
 
 https://gitlab.com/novaas/catalog/nova-school-of-science-and-technology/novaas
 
+### twinfix
+
+Web-based GUI to validate an AAS.
+
+https://twinfix.twinsphere.io/
+
 ### Commercial Tools
 
 A list of commercial tools can be found at https://industrialdigitaltwin.org/solutions-hub
